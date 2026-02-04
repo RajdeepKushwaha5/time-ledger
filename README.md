@@ -1,8 +1,10 @@
 # ⏳ TimeLedger
 
-**Minimalist wallpapers for mindful living.**
+**Your life, one glance at a time.**
 
-Transform your lock screen into a powerful visual reminder of time's passage. Beautiful, minimalist calendar wallpapers that update automatically every day.
+Turn your lock screen into a daily reminder of time's value.
+Beautiful calendars that update automatically.
+
 
 🌐 **Live Demo:** [time-ledger-one.vercel.app](https://time-ledger-one.vercel.app/)
 
